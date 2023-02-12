@@ -3,7 +3,7 @@
   "id": "reconnect-button",
   "version": "${version}",
 
-  "name": "Reconnect Button by HiWord9",
+  "name": "Reconnect Button",
   "description": "Adds a button to the pause menu that will reconnect you to the server you are on",
   "authors": [
     "HiWord9"
